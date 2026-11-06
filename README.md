@@ -73,3 +73,4 @@ Data Science Student | Aspiring Data Analyst & Data Engineer
 ---
 
 ⭐ If you find this project useful, feel free to explore and share your feedback!
+![Netflix Dashboard](Images/Netflix_Dashboard.png)
